@@ -1,0 +1,8 @@
+1) After downloading files from git Repository to folder. Than run following commands through commandline from inside folder.
+ -> npm install
+ -> npm start
+
+Test
+2) TO cd e2e-tests
+run command
+-> protractor protractor.conf.js
